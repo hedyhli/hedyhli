@@ -1,6 +1,6 @@
 ### Sup everyone! 👋
 
-- 🔭 I’m currently working on ... **[checkout my repo pins]**
+- 🔭 I’m currently working on ... **[checkout my pinned repos]**
 - 🌱 I’m currently learning ... **python :snake: and javascript :heart:**
 - 👯 I’m looking to collaborate on ... **anything**
 - 🤔 I’m looking for help with ... **any good first issues in my pinned repos :pencil:**

@@ -16,3 +16,5 @@
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I live in the terminal :computer:
 
+
+If you liked any of my projects, remember to leave a star :star:, thanks!

@@ -11,4 +11,4 @@
    2. Favorite emoji: :smirk: (the *smirk*)
 
 
-If you liked any of my projects, remember to star :star:, (and probably fork :fork_and_knife:) thanks!
+If you liked any of my projects, remember to :star:, (and probably :fork_and_knife:) thanks!

@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on  **[checkout my pinned repos]**
 - 👯 I’m looking to collaborate on  **anything**
-- 🤔 I’m looking for help with  **any good first issues in my pinned repos :pencil:**
+- 🤔 I’m looking for help with  **any help-wanted issues in my pinned repos :pencil:**
 - 📫 How to reach me:  **[twitter DM @hedythedev](https://twitter.com/hedythedev),**
 **or [linkedin](https://www.linkedin.com/in/hedy-li-8608831a6/)**
 - ⚡ Fun facts: 

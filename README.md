@@ -28,10 +28,11 @@
    1. I *try* to live entirely in the terminal :computer:
    2. Favorite emoji: :smirk: (the *smirk*)
 
-
+<!--
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 ---
+-->

@@ -34,11 +34,11 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com//iridakos/stup/issues/2) in [iridakos/stup](https://github.com//iridakos/stup)
-2. 🗣 Commented on [#67](https://github.com//hedythedev/starcli/issues/67) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+1. 🗣 Commented on [#2](https://github.com//iqubex-technologies/pkgreview.dev/issues/2) in [iqubex-technologies/pkgreview.dev](https://github.com//iqubex-technologies/pkgreview.dev)
+2. 🗣 Commented on [#2](https://github.com//iridakos/stup/issues/2) in [iridakos/stup](https://github.com//iridakos/stup)
 3. 🗣 Commented on [#67](https://github.com//hedythedev/starcli/issues/67) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-4. 🗣 Commented on [#83](https://github.com//jakubroztocil/httpie/issues/83) in [jakubroztocil/httpie](https://github.com//jakubroztocil/httpie)
-5. 🗣 Commented on [#67](https://github.com//hedythedev/starcli/issues/67) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+4. 🗣 Commented on [#67](https://github.com//hedythedev/starcli/issues/67) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+5. 🗣 Commented on [#83](https://github.com//jakubroztocil/httpie/issues/83) in [jakubroztocil/httpie](https://github.com//jakubroztocil/httpie)
 <!--END_SECTION:activity-->
 
 

@@ -28,7 +28,7 @@
    3. Favorite emoji: :smirk: (the *smirk*)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=hedythedev&show_icons=true&theme=dracula" alt="my github stats" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hedythedev&show_icons=true&theme=dracula" alt="my github stats" width="450"/>
 
 ---
 ### :zap: Recent Activity

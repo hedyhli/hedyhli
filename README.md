@@ -20,15 +20,16 @@
 <br/>
 
 - 🔭 I’m currently working on  **[starcli](https://github.com/hedythedev/starcli)**
-- 📫 How to reach me:  **[twitter DM @hedythedev](https://twitter.com/hedythedev),**
+- 📫 How to reach me:  **[twitter @hedythedev](https://twitter.com/hedythedev),**
 **or [linkedin](https://www.linkedin.com/in/hedy-li-8608831a6/)**
 - ⚡ Fun facts: 
    1. I speak fluent Chinese 💯
    2. I *try* to live entirely in the terminal :computer:
    3. Favorite emoji: :smirk: (the *smirk*)
 
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hedythedev&show_icons=true&theme=dracula" alt="my github stats" width="450"/>
+</p>
 
 ---
 ### :zap: Recent Activity

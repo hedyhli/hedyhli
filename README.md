@@ -13,7 +13,7 @@
 <a href="https://dev.to/hedyli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hedyli" height="20" width="20" /></a>
 <a href="https://twitter.com/hedythedev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hedythedev" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/hedy-li-8608831a6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hedy-li-8608831a6" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/hedy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hedy" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/12041035/hedy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hedy" height="20" width="20" /></a>
 </p>
 
 

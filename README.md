@@ -19,14 +19,13 @@
 
 <br/>
 
-- 🔭 I’m currently working on  **[checkout my pinned repos]**
-- 👯 I’m looking to collaborate on  **anything**
-- 🤔 I’m looking for help with  **any help-wanted issues in my pinned repos :pencil:**
+- 🔭 I’m currently working on  **[starcli](github.com/hedythedev/starcli)**
 - 📫 How to reach me:  **[twitter DM @hedythedev](https://twitter.com/hedythedev),**
 **or [linkedin](https://www.linkedin.com/in/hedy-li-8608831a6/)**
 - ⚡ Fun facts: 
-   1. I *try* to live entirely in the terminal :computer:
-   2. Favorite emoji: :smirk: (the *smirk*)
+   1. I speak fluent Chinese 💯
+   2. I *try* to live entirely in the terminal :computer:
+   3. Favorite emoji: :smirk: (the *smirk*)
 
 
 ![Hedy's github stats](https://github-readme-stats.vercel.app/api?username=hedythedev&show_icons=true&theme=dracula)

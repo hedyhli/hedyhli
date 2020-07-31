@@ -49,11 +49,11 @@ These are my social profile links/icons
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com//iqubex-technologies/pkgreview.dev/issues/2) in [iqubex-technologies/pkgreview.dev](https://github.com//iqubex-technologies/pkgreview.dev)
-2. 🗣 Commented on [#2](https://github.com//iridakos/stup/issues/2) in [iridakos/stup](https://github.com//iridakos/stup)
-3. 🗣 Commented on [#67](https://github.com//hedythedev/starcli/issues/67) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-4. 🗣 Commented on [#67](https://github.com//hedythedev/starcli/issues/67) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-5. 🗣 Commented on [#83](https://github.com//jakubroztocil/httpie/issues/83) in [jakubroztocil/httpie](https://github.com//jakubroztocil/httpie)
+1. 🗣 Commented on [#68](https://github.com//hedythedev/starcli/issues/68) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+2. 🎉 Merged PR [#67](https://github.com//hedythedev/starcli/pull/67) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+3. 🗣 Commented on [#2](https://github.com//iqubex-technologies/pkgreview.dev/issues/2) in [iqubex-technologies/pkgreview.dev](https://github.com//iqubex-technologies/pkgreview.dev)
+4. 🗣 Commented on [#2](https://github.com//iridakos/stup/issues/2) in [iridakos/stup](https://github.com//iridakos/stup)
+5. 🗣 Commented on [#67](https://github.com//hedythedev/starcli/issues/67) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
 <!--END_SECTION:activity-->
 ---
 

@@ -2,7 +2,7 @@ name: GitHub Activity Section
 
 on:
   schedule:
-    - cron: '*/40 * * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 jobs:

@@ -29,6 +29,8 @@
    2. Favorite emoji: :smirk: (the *smirk*)
 
 
+![Hedy's github stats](https://github-readme-stats.vercel.app/api?username=hedythedev&show_icons=true)
+
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->

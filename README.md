@@ -19,7 +19,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on  **[starcli](github.com/hedythedev/starcli)**
+- 🔭 I’m currently working on  **[starcli](https://github.com/hedythedev/starcli)**
 - 📫 How to reach me:  **[twitter DM @hedythedev](https://twitter.com/hedythedev),**
 **or [linkedin](https://www.linkedin.com/in/hedy-li-8608831a6/)**
 - ⚡ Fun facts: 

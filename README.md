@@ -29,4 +29,8 @@
    2. Favorite emoji: :smirk: (the *smirk*)
 
 
-If you liked any of my projects, remember to star:star:, (and probably fork⎇) thanks!
+---
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+---

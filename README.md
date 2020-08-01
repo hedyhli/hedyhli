@@ -7,23 +7,26 @@ Well, I did it using canva.com, nothing fancy completely free :)
 <!--
 <h1 align="center">Sup everyone! 👋</h1>
 -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hedythedev" alt="hedythedev" /> <img src="https://img.shields.io/badge/Pronouns-She%2FHer-green" alt="pronouns: she/her" /> </p>
+<img src="https://komarev.com/ghpvc/?username=hedythedev" alt="hedythedev" /> <img src="https://img.shields.io/badge/Pronouns-She%2FHer-green" alt="pronouns: she/her" />
 <!--
 The above contains two badges, one is profile views count, and the other
 one is "pronouns" info from shields.io
 -->
-
+<!--
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="45" height="45"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>  </p>
+-->
 <!--
 The above are the languages/technologies icons from devicons :)
 -->
 
+<!--
 <p align="center">
 <a href="https://dev.to/hedyli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hedyli" height="20" width="20" /></a>
 <a href="https://twitter.com/hedythedev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hedythedev" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/hedy-li-8608831a6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hedy-li-8608831a6" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/12041035/hedy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hedy" height="20" width="20" /></a>
 </p>
+-->
 <!--
 These are my social profile links/icons
 -->

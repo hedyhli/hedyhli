@@ -33,16 +33,25 @@ These are my social profile links/icons
 
 <br/>
 
-- 🔭 I’m currently working on  **[starcli](https://github.com/hedythedev/starcli)**
-- 📫 How to reach me (use one of the following ways):
-   1. **[twitter @hedythedev](https://twitter.com/hedythedev) (recommended)**
-   2. **[linkedin](https://www.linkedin.com/in/hedy-li-8608831a6/) (if you don't have twitter)**
-   3. **[email](mailto:hedyhyry+hey@gmail.com) (not recommended)**
-- ⚡ Fun facts: 
+**🔭I’m currently working on**
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hedythedev&repo=starcli">
+
+<br>
+
+**📫 How to reach me (use one of the following ways):**
+   1. [twitter @hedythedev](https://twitter.com/hedythedev) (recommended)
+   2. [linkedin](https://www.linkedin.com/in/hedy-li-8608831a6/) (if you don't have twitter)
+   3. [email](mailto:hedyhyry+hey@gmail.com) (not recommended)
+
+<br>
+
+**⚡ Fun facts** 
    - I speak fluent Chinese 💯
    - I *try* to live entirely in the terminal :computer:
    - Favorite emoji: :smirk: (the *smirk*)
 
+<br>
 
 <!-- My GitHub stats with Dracula theme ❤️ -->
 <p align="center">

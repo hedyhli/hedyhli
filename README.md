@@ -36,9 +36,9 @@ These are my social profile links/icons
    2. **[linkedin](https://www.linkedin.com/in/hedy-li-8608831a6/) (if you don't have twitter)**
    3. **[email](mailto:hedyhyry+hey@gmail.com) (not recommended)**
 - ⚡ Fun facts: 
-   1. I speak fluent Chinese 💯
-   2. I *try* to live entirely in the terminal :computer:
-   3. Favorite emoji: :smirk: (the *smirk*)
+   - I speak fluent Chinese 💯
+   - I *try* to live entirely in the terminal :computer:
+   - Favorite emoji: :smirk: (the *smirk*)
 
 
 <!-- My GitHub stats with Dracula theme ❤️ -->

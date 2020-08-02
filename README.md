@@ -36,7 +36,9 @@ These are my social profile links/icons
 <details open>
 <summary><strong>🔭I’m currently working on</strong></summary>
 <br/>
+<a href="https://github.com/hedythedev/starcli">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=hedythedev&repo=starcli" width=370>
+</a>
 </details>
 <br>
 

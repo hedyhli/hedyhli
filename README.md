@@ -35,9 +35,9 @@ These are my social profile links/icons
 
 <details open>
 <summary><strong>🔭I’m currently working on**</strong></summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hedythedev&repo=starcli">
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hedythedev&repo=starcli">
+</details>
 <br>
 
 **📫 How to reach me (use one of the following ways):**

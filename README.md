@@ -47,10 +47,13 @@ These are my social profile links/icons
 
 <br>
 
-**⚡ Fun facts** 
-   - I speak fluent Chinese 💯
+<details>
+<summary><strong>⚡ Fun facts</strong></summary>
+   
+   - I speak fluent Chinese :100:
    - I *try* to live entirely in the terminal :computer:
    - Favorite emoji: :smirk: (the *smirk*)
+</details>
 
 <br>
 

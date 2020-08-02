@@ -40,7 +40,7 @@ These are my social profile links/icons
 </details>
 <br>
 
-<details>
+<details open>
 <summary><strong>📫 How to reach me (use one of the following ways):</strong></summary>
    
    1. [twitter @hedythedev](https://twitter.com/hedythedev) (recommended)
@@ -51,7 +51,7 @@ These are my social profile links/icons
 
 <br>
 
-<details>
+<details open>
 <summary><strong>⚡ Fun facts</strong></summary>
    
    - I speak fluent Chinese :100:

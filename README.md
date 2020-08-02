@@ -73,6 +73,7 @@ These are my social profile links/icons
 <details>
 <summary><strong>👣 Recent GitHub Activity</strong></summary>
 <br>
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#64](https://github.com//hedythedev/starcli/issues/64) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
 2. 🎉 Merged PR [#69](https://github.com//hedythedev/starcli/pull/69) in [hedythedev/starcli](https://github.com//hedythedev/starcli)

@@ -40,10 +40,14 @@ These are my social profile links/icons
 </details>
 <br>
 
-**📫 How to reach me (use one of the following ways):**
+<details>
+<summary><strong>📫 How to reach me (use one of the following ways):</strong></summary>
+   
    1. [twitter @hedythedev](https://twitter.com/hedythedev) (recommended)
    2. [linkedin](https://www.linkedin.com/in/hedy-li-8608831a6/) (if you don't have twitter)
    3. [email](mailto:hedyhyry+hey@gmail.com) (not recommended)
+   
+</details>
 
 <br>
 

@@ -76,11 +76,11 @@ These are my social profile links/icons
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1670](https://github.com//github/explore/issues/1670) in [github/explore](https://github.com//github/explore)
-2. 💪 Opened PR [#139](https://github.com//thechangelog/show-notes/pull/139) in [thechangelog/show-notes](https://github.com//thechangelog/show-notes)
-3. ❗️ Closed issue [#126](https://github.com//carpedm20/emoji/issues/126) in [carpedm20/emoji](https://github.com//carpedm20/emoji)
-4. 🗣 Commented on [#126](https://github.com//carpedm20/emoji/issues/126) in [carpedm20/emoji](https://github.com//carpedm20/emoji)
-5. 🗣 Commented on [#64](https://github.com//hedythedev/starcli/issues/64) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+1. 🎉 Merged PR [#1](https://github.com//hedythedev/gtrending/pull/1) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
+2. 🗣 Commented on [#1](https://github.com//hedythedev/gtrending/issues/1) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
+3. 🎉 Merged PR [#71](https://github.com//hedythedev/starcli/pull/71) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+4. 🗣 Commented on [#70](https://github.com//hedythedev/starcli/issues/70) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+5. 🗣 Commented on [#1670](https://github.com//github/explore/issues/1670) in [github/explore](https://github.com//github/explore)
 <!--END_SECTION:activity-->
 
 </details>

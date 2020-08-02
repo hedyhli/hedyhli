@@ -69,7 +69,10 @@ These are my social profile links/icons
 </p>
 
 ---
-### :zap: Recent Activity
+
+<details>
+<summary><strong>👣 Recent GitHub Activity</strong></summary>
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#64](https://github.com//hedythedev/starcli/issues/64) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
 2. 🎉 Merged PR [#69](https://github.com//hedythedev/starcli/pull/69) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
@@ -77,6 +80,9 @@ These are my social profile links/icons
 4. 💪 Opened PR [#237](https://github.com//kautukkundan/Awesome-Profile-README-templates/pull/237) in [kautukkundan/Awesome-Profile-README-templates](https://github.com//kautukkundan/Awesome-Profile-README-templates)
 5. 💪 Opened PR [#204](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/204) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
+
+</details>
+
 ---
 
 <!-- Feel free to reach out and introduce yourself :D-->

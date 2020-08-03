@@ -116,11 +116,11 @@ Vim                      1 hr 38 mins        ███████████�
 <br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com//anmol098/waka-readme-stats/pull/36) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-2. 🗣 Commented on [#75](https://github.com//hedythedev/starcli/issues/75) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-3. 🗣 Commented on [#75](https://github.com//hedythedev/starcli/issues/75) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-4. 💪 Opened PR [#34](https://github.com//anmol098/waka-readme-stats/pull/34) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-5. ❗️ Closed issue [#74](https://github.com//hedythedev/starcli/issues/74) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+1. 🗣 Commented on [#199](https://github.com//gautamkrishnar/socli/issues/199) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
+2. 🗣 Commented on [#199](https://github.com//gautamkrishnar/socli/issues/199) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
+3. 🗣 Commented on [#199](https://github.com//gautamkrishnar/socli/issues/199) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
+4. 🗣 Commented on [#199](https://github.com//gautamkrishnar/socli/issues/199) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
+5. 💪 Opened PR [#36](https://github.com//anmol098/waka-readme-stats/pull/36) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 
 </details>

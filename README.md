@@ -82,7 +82,7 @@ These are my social profile links/icons
  > 
 > 🚫 Not opted to Hire
  > 
-> 📜 28 Public Repository 
+> 📜 29 Public Repository 
  > 
 > 🔑 11 Owned Private Repository 
 

@@ -116,11 +116,11 @@ Vim                      1 hr 38 mins        ███████████�
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#74](https://github.com//hedythedev/starcli/issues/74) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-2. 🎉 Merged PR [#73](https://github.com//hedythedev/starcli/pull/73) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-3. ❗️ Closed issue [#72](https://github.com//hedythedev/starcli/issues/72) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-4. 🗣 Commented on [#72](https://github.com//hedythedev/starcli/issues/72) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-5. 🗣 Commented on [#74](https://github.com//hedythedev/starcli/issues/74) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+1. 💪 Opened PR [#34](https://github.com//anmol098/waka-readme-stats/pull/34) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+2. ❗️ Closed issue [#74](https://github.com//hedythedev/starcli/issues/74) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+3. 🎉 Merged PR [#73](https://github.com//hedythedev/starcli/pull/73) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+4. ❗️ Closed issue [#72](https://github.com//hedythedev/starcli/issues/72) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+5. 🗣 Commented on [#72](https://github.com//hedythedev/starcli/issues/72) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
 <!--END_SECTION:activity-->
 
 </details>

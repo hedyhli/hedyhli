@@ -78,15 +78,15 @@ These are my social profile links/icons
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 972 Contributions in year 2020
+> 🏆 974 Contributions in year 2020
  > 
 > 📦 Used 21.2 kB in GitHub's Storage 
  > 
 > 🚫 Not opted to Hire
  > 
-> 📜 29 Public Repository 
+> 📜 29 Public Repositories 
  > 
-> 🔑 11 Owned Private Repository 
+> 🔑 11 Owned Private Repositories 
 
 📊 **This week I spent my time on** 
 

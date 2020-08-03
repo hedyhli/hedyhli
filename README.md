@@ -73,8 +73,10 @@ These are my social profile links/icons
 
 <details open>
    <summary><strong> My Coding time statistics</strong><summary>
+      
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-360-blue)
+      
+
 
 **🐱 My GitHub Data** 
 

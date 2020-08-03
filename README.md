@@ -84,7 +84,7 @@ These are my social profile links/icons
  > 
 > 🚫 Not opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 28 Public Repositories 
  > 
 > 🔑 11 Owned Private Repositories 
 

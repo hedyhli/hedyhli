@@ -71,8 +71,11 @@ These are my social profile links/icons
 
 ---
 
+<!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
 <details open>
-   <summary><strong> My Coding time statistics</strong><summary>
+   <summary><strong> My dev stats</strong><summary>
+   
+   <br>
       
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 

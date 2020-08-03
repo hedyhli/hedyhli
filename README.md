@@ -72,11 +72,7 @@ These are my social profile links/icons
 ---
 
 <!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
-<details open>
-   <summary><strong> My dev stats</strong><summary>
-   
-   <br>
-      
+
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
@@ -109,7 +105,7 @@ Vim                      1 hr 38 mins        ███████████�
 
 
 <!--END_SECTION:waka-->
-</details>
+
       
 ---
 

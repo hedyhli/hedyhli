@@ -78,7 +78,7 @@ These are my social profile links/icons
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 984 Contributions in year 2020
+> 🏆 985 Contributions in year 2020
  > 
 > 📦 Used 21.2 kB in GitHub's Storage 
  > 

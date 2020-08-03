@@ -74,6 +74,38 @@ These are my social profile links/icons
 <details open>
    <summary><strong> My Coding time statistics</strong><summary>
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-360-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 959 Contributions in year 2020
+ > 
+> 📦 Used 21.2 kB in GitHub's Storage 
+ > 
+> 🚫 Not opted to Hire
+ > 
+> 📜 28 Public Repository 
+ > 
+> 🔑 11 Owned Private Repository 
+
+📊 **This week I spent my time on** 
+
+```text
+⌚︎ Timezone: Asia/Kuala_Lumpur
+
+💬 Languages: 
+Python                   1 hr 13 mins        ██████████████████░░░░░░░   74.45% 
+Markdown                 19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.83% 
+Makefile                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
+Fish                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+
+🔥 Editors: 
+Vim                      1 hr 38 mins        █████████████████████████   100.0%
+
+```
+
+
 <!--END_SECTION:waka-->
 </details>
       

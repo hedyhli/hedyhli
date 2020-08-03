@@ -75,9 +75,6 @@ These are my social profile links/icons
    <summary><strong> My Coding time statistics</strong><summary>
       
 <!--START_SECTION:waka-->
-      
-
-
 **🐱 My GitHub Data** 
 
 > 🏆 959 Contributions in year 2020

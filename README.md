@@ -71,6 +71,14 @@ These are my social profile links/icons
 
 ---
 
+<details open>
+   <summary><strong> My Coding time statistics</strong><summary>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</details>
+      
+---
+
 <details>
 <summary><strong>👣 Recent GitHub Activity</strong></summary>
 <br>

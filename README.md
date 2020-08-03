@@ -76,11 +76,11 @@ These are my social profile links/icons
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//hedythedev/gtrending/pull/1) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
-2. 🗣 Commented on [#1](https://github.com//hedythedev/gtrending/issues/1) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
-3. 🎉 Merged PR [#71](https://github.com//hedythedev/starcli/pull/71) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-4. 🗣 Commented on [#70](https://github.com//hedythedev/starcli/issues/70) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-5. 🗣 Commented on [#1670](https://github.com//github/explore/issues/1670) in [github/explore](https://github.com//github/explore)
+1. ❗️ Closed issue [#74](https://github.com//hedythedev/starcli/issues/74) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+2. 🎉 Merged PR [#73](https://github.com//hedythedev/starcli/pull/73) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+3. ❗️ Closed issue [#72](https://github.com//hedythedev/starcli/issues/72) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+4. 🗣 Commented on [#72](https://github.com//hedythedev/starcli/issues/72) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+5. 🗣 Commented on [#74](https://github.com//hedythedev/starcli/issues/74) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
 <!--END_SECTION:activity-->
 
 </details>

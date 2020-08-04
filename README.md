@@ -111,7 +111,7 @@ Vim                      1 hr 39 mins        ███████████�
       
 ---
 
-<details>
+<details open>
 <summary><strong>👣 Recent GitHub Activity</strong></summary>
 <br>
 

@@ -116,10 +116,10 @@ Vim                      1 hr 39 mins        ███████████�
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#75](https://github.com//hedythedev/starcli/issues/75) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-2. 🗣 Commented on [#1](https://github.com//hedythedev/react-myapp/issues/1) in [hedythedev/react-myapp](https://github.com//hedythedev/react-myapp)
-3. 🗣 Commented on [#199](https://github.com//gautamkrishnar/socli/issues/199) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
-4. 🗣 Commented on [#199](https://github.com//gautamkrishnar/socli/issues/199) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
+1. 🗣 Commented on [#204](https://github.com//willmcgugan/rich/issues/204) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
+2. ❗️ Opened issue [#204](https://github.com//willmcgugan/rich/issues/204) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
+3. 🗣 Commented on [#75](https://github.com//hedythedev/starcli/issues/75) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+4. 🗣 Commented on [#1](https://github.com//hedythedev/react-myapp/issues/1) in [hedythedev/react-myapp](https://github.com//hedythedev/react-myapp)
 5. 🗣 Commented on [#199](https://github.com//gautamkrishnar/socli/issues/199) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
 <!--END_SECTION:activity-->
 

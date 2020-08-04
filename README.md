@@ -116,11 +116,11 @@ Vim                      1 hr 39 mins        ███████████�
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#199](https://github.com//gautamkrishnar/socli/issues/199) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
+1. 🗣 Commented on [#1](https://github.com//hedythedev/react-myapp/issues/1) in [hedythedev/react-myapp](https://github.com//hedythedev/react-myapp)
 2. 🗣 Commented on [#199](https://github.com//gautamkrishnar/socli/issues/199) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
 3. 🗣 Commented on [#199](https://github.com//gautamkrishnar/socli/issues/199) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
 4. 🗣 Commented on [#199](https://github.com//gautamkrishnar/socli/issues/199) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
-5. 💪 Opened PR [#36](https://github.com//anmol098/waka-readme-stats/pull/36) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+5. 🗣 Commented on [#199](https://github.com//gautamkrishnar/socli/issues/199) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
 <!--END_SECTION:activity-->
 
 </details>

@@ -116,11 +116,11 @@ Vim                      1 hr 39 mins        ███████████�
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#200](https://github.com//gautamkrishnar/socli/pull/200) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
+1. 🗣 Commented on [#204](https://github.com//willmcgugan/rich/issues/204) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
 2. 🗣 Commented on [#204](https://github.com//willmcgugan/rich/issues/204) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
-3. ❗️ Opened issue [#204](https://github.com//willmcgugan/rich/issues/204) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
+3. 🎉 Merged PR [#76](https://github.com//hedythedev/starcli/pull/76) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
 4. 🗣 Commented on [#75](https://github.com//hedythedev/starcli/issues/75) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-5. 🗣 Commented on [#1](https://github.com//hedythedev/react-myapp/issues/1) in [hedythedev/react-myapp](https://github.com//hedythedev/react-myapp)
+5. 🎉 Merged PR [#75](https://github.com//hedythedev/starcli/pull/75) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
 <!--END_SECTION:activity-->
 
 </details>

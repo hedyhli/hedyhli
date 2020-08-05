@@ -116,11 +116,11 @@ Vim                      1 hr 39 mins        ███████████�
 <br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#207](https://github.com//willmcgugan/rich/pull/207) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
-2. 🗣 Commented on [#204](https://github.com//willmcgugan/rich/issues/204) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
+1. 🗣 Commented on [#207](https://github.com//willmcgugan/rich/issues/207) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
+2. 💪 Opened PR [#207](https://github.com//willmcgugan/rich/pull/207) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
 3. 🗣 Commented on [#204](https://github.com//willmcgugan/rich/issues/204) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
-4. 🎉 Merged PR [#76](https://github.com//hedythedev/starcli/pull/76) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-5. 🗣 Commented on [#75](https://github.com//hedythedev/starcli/issues/75) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+4. 🗣 Commented on [#204](https://github.com//willmcgugan/rich/issues/204) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
+5. 🎉 Merged PR [#76](https://github.com//hedythedev/starcli/pull/76) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
 <!--END_SECTION:activity-->
 
 </details>

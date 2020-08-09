@@ -116,11 +116,11 @@ Vim                      1 hr 10 mins        ███████████�
 <br>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com//jSadoski/starcli/pull/1) in [jSadoski/starcli](https://github.com//jSadoski/starcli)
-2. 💪 Opened PR [#1](https://github.com//jSadoski/starcli/pull/1) in [jSadoski/starcli](https://github.com//jSadoski/starcli)
-3. 🎉 Merged PR [#79](https://github.com//hedythedev/starcli/pull/79) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-4. 🗣 Commented on [#207](https://github.com//willmcgugan/rich/issues/207) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
-5. 🗣 Commented on [#212](https://github.com//willmcgugan/rich/issues/212) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
+1. ❗️ Opened issue [#2](https://github.com//hedythedev/gtrending/issues/2) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
+2. ❌ Closed PR [#1](https://github.com//jSadoski/starcli/pull/1) in [jSadoski/starcli](https://github.com//jSadoski/starcli)
+3. 💪 Opened PR [#1](https://github.com//jSadoski/starcli/pull/1) in [jSadoski/starcli](https://github.com//jSadoski/starcli)
+4. 🎉 Merged PR [#79](https://github.com//hedythedev/starcli/pull/79) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+5. 🗣 Commented on [#207](https://github.com//willmcgugan/rich/issues/207) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
 <!--END_SECTION:activity-->
 
 </details>

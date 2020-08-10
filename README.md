@@ -80,7 +80,7 @@ These are my social profile links/icons
 
 > 🏆 1,053 Contributions in year 2020
  > 
-> 📦 Used 19.6 kB in GitHub's Storage 
+> 📦 Used 19.7 kB in GitHub's Storage 
  > 
 > 🚫 Not opted to Hire
  > 

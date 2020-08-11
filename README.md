@@ -112,11 +112,11 @@ Vim                      9 mins              ███████████�
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com//hedythedev/gtrending/issues/2) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
-2. ❌ Closed PR [#1](https://github.com//jSadoski/starcli/pull/1) in [jSadoski/starcli](https://github.com//jSadoski/starcli)
-3. 💪 Opened PR [#1](https://github.com//jSadoski/starcli/pull/1) in [jSadoski/starcli](https://github.com//jSadoski/starcli)
-4. 🎉 Merged PR [#79](https://github.com//hedythedev/starcli/pull/79) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-5. undefined
+1. ❗️ Closed issue [#2](https://github.com//hedythedev/gtrending/issues/2) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
+2. ❗️ Opened issue [#2](https://github.com//hedythedev/gtrending/issues/2) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
+3. ❌ Closed PR [#1](https://github.com//jSadoski/starcli/pull/1) in [jSadoski/starcli](https://github.com//jSadoski/starcli)
+4. 💪 Opened PR [#1](https://github.com//jSadoski/starcli/pull/1) in [jSadoski/starcli](https://github.com//jSadoski/starcli)
+5. 🎉 Merged PR [#79](https://github.com//hedythedev/starcli/pull/79) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
 <!--END_SECTION:activity-->
 
 </details>

@@ -116,7 +116,7 @@ Vim                      9 mins              ███████████�
 2. ❌ Closed PR [#1](https://github.com//jSadoski/starcli/pull/1) in [jSadoski/starcli](https://github.com//jSadoski/starcli)
 3. 💪 Opened PR [#1](https://github.com//jSadoski/starcli/pull/1) in [jSadoski/starcli](https://github.com//jSadoski/starcli)
 4. 🎉 Merged PR [#79](https://github.com//hedythedev/starcli/pull/79) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-5. 🗣 Commented on [#207](https://github.com//willmcgugan/rich/issues/207) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
+5. undefined
 <!--END_SECTION:activity-->
 
 </details>

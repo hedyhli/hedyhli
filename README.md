@@ -94,10 +94,10 @@ These are my social profile links/icons
 ⌚︎ Timezone: Asia/Kuala_Lumpur
 
 💬 Languages: 
-Python                   9 mins              █████████████████████████   100.0%
+No Activity tracked this Week
 
 🔥 Editors: 
-Vim                      9 mins              █████████████████████████   100.0%
+No Activity tracked this Week
 
 ```
 

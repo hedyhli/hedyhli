@@ -80,11 +80,11 @@ These are my social profile links/icons
 
 > 🏆 1,074 Contributions in year 2020
  > 
-> 📦 Used 19.7 kB in GitHub's Storage 
+> 📦 Used 19.9 kB in GitHub's Storage 
  > 
 > 🚫 Not opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 31 Public Repositories 
  > 
 > 🔑 11 Owned Private Repositories 
 

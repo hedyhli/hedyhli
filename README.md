@@ -112,11 +112,11 @@ No Activity tracked this Week
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#207](https://github.com//willmcgugan/rich/issues/207) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
-2. ❗️ Closed issue [#2](https://github.com//hedythedev/gtrending/issues/2) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
-3. ❗️ Opened issue [#2](https://github.com//hedythedev/gtrending/issues/2) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
-4. undefined
-5. undefined
+1. ❌ Closed PR [#7](https://github.com//hedythedev/hello-world/pull/7) in [hedythedev/hello-world](https://github.com//hedythedev/hello-world)
+2. 🗣 Commented on [#7](https://github.com//hedythedev/hello-world/issues/7) in [hedythedev/hello-world](https://github.com//hedythedev/hello-world)
+3. 🗣 Commented on [#207](https://github.com//willmcgugan/rich/issues/207) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
+4. ❗️ Closed issue [#2](https://github.com//hedythedev/gtrending/issues/2) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
+5. ❗️ Opened issue [#2](https://github.com//hedythedev/gtrending/issues/2) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
 <!--END_SECTION:activity-->
 
 </details>

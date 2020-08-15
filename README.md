@@ -115,8 +115,8 @@ No Activity tracked this Week
 1. 🗣 Commented on [#207](https://github.com//willmcgugan/rich/issues/207) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
 2. ❗️ Closed issue [#2](https://github.com//hedythedev/gtrending/issues/2) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
 3. ❗️ Opened issue [#2](https://github.com//hedythedev/gtrending/issues/2) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
-4. ❌ Closed PR [#1](https://github.com//jSadoski/starcli/pull/1) in [jSadoski/starcli](https://github.com//jSadoski/starcli)
-5. 💪 Opened PR [#1](https://github.com//jSadoski/starcli/pull/1) in [jSadoski/starcli](https://github.com//jSadoski/starcli)
+4. undefined
+5. undefined
 <!--END_SECTION:activity-->
 
 </details>

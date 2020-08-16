@@ -112,11 +112,11 @@ No Activity Tracked This Week
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#207](https://github.com//willmcgugan/rich/issues/207) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
-2. ❌ Closed PR [#7](https://github.com//hedythedev/hello-world/pull/7) in [hedythedev/hello-world](https://github.com//hedythedev/hello-world)
-3. 🗣 Commented on [#7](https://github.com//hedythedev/hello-world/issues/7) in [hedythedev/hello-world](https://github.com//hedythedev/hello-world)
-4. 🗣 Commented on [#207](https://github.com//willmcgugan/rich/issues/207) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
-5. ❗️ Closed issue [#2](https://github.com//hedythedev/gtrending/issues/2) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
+1. 💪 Opened PR [#232](https://github.com//willmcgugan/rich/pull/232) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
+2. 🗣 Commented on [#207](https://github.com//willmcgugan/rich/issues/207) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
+3. ❌ Closed PR [#7](https://github.com//hedythedev/hello-world/pull/7) in [hedythedev/hello-world](https://github.com//hedythedev/hello-world)
+4. 🗣 Commented on [#7](https://github.com//hedythedev/hello-world/issues/7) in [hedythedev/hello-world](https://github.com//hedythedev/hello-world)
+5. 🗣 Commented on [#207](https://github.com//willmcgugan/rich/issues/207) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
 <!--END_SECTION:activity-->
 
 </details>

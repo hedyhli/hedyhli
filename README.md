@@ -76,27 +76,27 @@ These are my social profile links/icons
 <!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 1,105 Contributions in 2020
+> 🏆 1,113 Contributions in the year 2020
  > 
-> 📦 Used 19.9 kB in GitHub's Storage 
+> 📦 20.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 31 Public repositories
  > 
-> 🔑 11 Owned Private Repositories 
+> 🔑 11 Private repositories 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Kuala_Lumpur
+⌚︎ Time zone: Asia/Kuala_Lumpur
 
-💬 Languages: 
+💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Code Editors: 
 No Activity Tracked This Week
 
 ```

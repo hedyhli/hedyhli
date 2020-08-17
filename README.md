@@ -112,11 +112,11 @@ No Activity Tracked This Week
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com//anmol098/waka-readme-stats/issues/23) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-2. ❗️ Opened issue [#4253](https://github.com//timburgan/timburgan/issues/4253) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
-3. 💪 Opened PR [#232](https://github.com//willmcgugan/rich/pull/232) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
-4. 🗣 Commented on [#207](https://github.com//willmcgugan/rich/issues/207) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
-5. ❌ Closed PR [#7](https://github.com//hedythedev/hello-world/pull/7) in [hedythedev/hello-world](https://github.com//hedythedev/hello-world)
+1. 💪 Opened PR [#62](https://github.com//anmol098/waka-readme-stats/pull/62) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+2. 🗣 Commented on [#23](https://github.com//anmol098/waka-readme-stats/issues/23) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+3. ❗️ Opened issue [#4253](https://github.com//timburgan/timburgan/issues/4253) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+4. 💪 Opened PR [#232](https://github.com//willmcgugan/rich/pull/232) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
+5. 🗣 Commented on [#207](https://github.com//willmcgugan/rich/issues/207) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
 <!--END_SECTION:activity-->
 
 </details>

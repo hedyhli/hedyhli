@@ -112,11 +112,11 @@ No Activity Tracked This Week
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com//hedythedev/gtrending/issues/3) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
-2. 💪 Opened PR [#62](https://github.com//anmol098/waka-readme-stats/pull/62) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-3. 🗣 Commented on [#23](https://github.com//anmol098/waka-readme-stats/issues/23) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-4. ❗️ Opened issue [#4253](https://github.com//timburgan/timburgan/issues/4253) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
-5. 💪 Opened PR [#232](https://github.com//willmcgugan/rich/pull/232) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
+1. ❗️ Opened issue [#81](https://github.com//hedythedev/starcli/issues/81) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+2. ❗️ Opened issue [#80](https://github.com//hedythedev/starcli/issues/80) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+3. 🗣 Commented on [#24](https://github.com//hedythedev/starcli/issues/24) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+4. 🎉 Merged PR [#77](https://github.com//hedythedev/starcli/pull/77) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+5. ❗️ Closed issue [#41](https://github.com//hedythedev/starcli/issues/41) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
 <!--END_SECTION:activity-->
 
 </details>

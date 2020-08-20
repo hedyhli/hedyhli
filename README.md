@@ -112,11 +112,11 @@ No Activity Tracked This Week
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#81](https://github.com//hedythedev/starcli/issues/81) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-2. ❗️ Opened issue [#80](https://github.com//hedythedev/starcli/issues/80) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-3. 🗣 Commented on [#24](https://github.com//hedythedev/starcli/issues/24) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-4. 🎉 Merged PR [#77](https://github.com//hedythedev/starcli/pull/77) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-5. ❗️ Closed issue [#41](https://github.com//hedythedev/starcli/issues/41) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+1. 🎉 Merged PR [#4](https://github.com//hedythedev/passibility/pull/4) in [hedythedev/passibility](https://github.com//hedythedev/passibility)
+2. 💪 Opened PR [#4](https://github.com//hedythedev/passibility/pull/4) in [hedythedev/passibility](https://github.com//hedythedev/passibility)
+3. ❗️ Opened issue [#81](https://github.com//hedythedev/starcli/issues/81) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+4. ❗️ Opened issue [#80](https://github.com//hedythedev/starcli/issues/80) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+5. 🗣 Commented on [#24](https://github.com//hedythedev/starcli/issues/24) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
 <!--END_SECTION:activity-->
 
 </details>

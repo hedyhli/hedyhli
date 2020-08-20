@@ -78,25 +78,25 @@ These are my social profile links/icons
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 1,132 Contributions in the year 2020
+> 🏆 1,146 Contributions in the Year 2020
  > 
 > 📦 19.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 32 Public repositories
+> 📜 32 Public Repositories
  > 
-> 🔑 11 Private repositories 
+> 🔑 11 Private Repositories 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Asia/Kuala_Lumpur
+⌚︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Code Editors: 
+🔥 Editors: 
 No Activity Tracked This Week
 
 ```

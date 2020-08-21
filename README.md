@@ -53,15 +53,15 @@ banner made with canva
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 1,168 Contributions in the Year 2020
+> 🏆 1,169 Contributions in the Year 2020
  > 
 > 📦 19.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 32 Public Repositories
+> 📜 31 Public Repositories
  > 
-> 🔑 11 Private Repositories 
+> 🔑 12 Private Repositories 
 
 📊 **This Week I Spent My Time On** 
 

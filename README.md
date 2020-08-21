@@ -11,25 +11,25 @@ banner made with canva
 3. Editor: neovim
 -->
 
+<br>
 
-
-<h3 align="center">🔭 Currently focusing on...</h3>
+<h3 align="left">🔭 Currently focusing on...</h3>
 <br/>
 <a href="https://github.com/hedythedev/starcli"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=hedythedev&repo=starcli" width=360> </a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/hedythedev/gtrending"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=hedythedev&repo=gtrending" width=360> </a>
 
 <br>
+<hr>
 
-<h3 align="center">📫 How to reach me </h3>
+<h3 align="left">📫 How to reach me </h3>
    
    1. [twitter @hedythedev](https://twitter.com/hedythedev) (recommended)
    2. [linkedin](https://www.linkedin.com/in/hedy-li-8608831a6/) (if you don't have twitter)
    3. [email](mailto:hedyhyry+hey@gmail.com) (not recommended)
    
 
+<hr>
 
-<br>
-
-<h3 align="center">⚡ Fun facts</h3>
+<h3 align="left">⚡ Fun facts</h3>
    
    - I speak fluent Chinese :100:
    - I *try* to live entirely in the terminal :computer:
@@ -37,16 +37,16 @@ banner made with canva
 
 
 <br>
+<hr>
 
-
-<h3 align="center">Some GitHub statistics</h3>
+<h3 align="left">Statistics</h3>
+<br>
 
 <!-- My GitHub stats with Dracula theme ❤️ -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hedythedev&show_icons=true&theme=dracula" alt="my github stats" width="450"/>
 </p>
 
----
 
 <!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
 
@@ -82,9 +82,7 @@ No Activity Tracked This Week
       
 ---
 
-<details open>
-<summary><strong>👣 Recent GitHub Activity</strong></summary>
-<br>
+<h3>👣 Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#246](https://github.com//willmcgugan/rich/issues/246) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
@@ -94,7 +92,7 @@ No Activity Tracked This Week
 5. 💪 Opened PR [#4](https://github.com//hedythedev/passibility/pull/4) in [hedythedev/passibility](https://github.com//hedythedev/passibility)
 <!--END_SECTION:activity-->
 
-</details>
+
 
 ---
 

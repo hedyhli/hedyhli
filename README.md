@@ -39,7 +39,7 @@ banner made with canva
 <br>
 
 
-<h3 align="center">Some GitHub statistics<h3>
+<h3 align="center">Some GitHub statistics</h3>
 
 <!-- My GitHub stats with Dracula theme ❤️ -->
 <p align="center">

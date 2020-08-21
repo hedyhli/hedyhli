@@ -53,7 +53,7 @@ banner made with canva
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 1,158 Contributions in the Year 2020
+> 🏆 1,168 Contributions in the Year 2020
  > 
 > 📦 19.9 kB Used in Github's Storage 
  > 

@@ -59,7 +59,7 @@ banner made with canva
 
 > 🏆 1,171 Contributions in the Year 2020
  > 
-> 📦 19.9 kB Used in Github's Storage 
+> 📦 20.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 

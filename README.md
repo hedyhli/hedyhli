@@ -22,7 +22,7 @@ banner made with canva
 <a href="https://github.com/hedythedev/starcli"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=hedythedev&repo=starcli" width=360> </a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/hedythedev/gtrending"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=hedythedev&repo=gtrending" width=360> </a>
 
 
-<hr>
+
 
 <strong>📫 How to reach me </strong>
    
@@ -31,7 +31,7 @@ banner made with canva
    3. [email](mailto:hedyhyry+hey@gmail.com) (not recommended)
    
 
-<hr>
+
 
 <strong>⚡ Fun facts</strong>
    

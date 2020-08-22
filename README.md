@@ -48,7 +48,7 @@ banner made with canva
 
 <!-- My GitHub stats with Dracula theme ❤️ -->
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=hedythedev&show_icons=true&theme=dracula" alt="my github stats" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hedythedev&show_icons=true&theme=dracula" alt="my github stats" width="450"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedythedev&layout=compact" alt="languages" height="180">
 </p>
 
 

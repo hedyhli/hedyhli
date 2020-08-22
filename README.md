@@ -16,7 +16,7 @@ banner made with canva
 3. Editor: neovim
 -->
 
-<br>
+
 
 <strong>🔭 Currently focusing on...</strong>
 
@@ -49,7 +49,7 @@ banner made with canva
 
 <!-- My GitHub stats with Dracula theme ❤️ -->
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=hedythedev&show_icons=true&theme=dracula" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedythedev&layout=compact&theme=dracula" alt="languages" height="175">
+<img src="https://github-readme-stats.vercel.app/api?username=hedythedev&show_icons=true&theme=dracula" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedythedev&layout=compact&theme=dracula" alt="languages" height="165">
 </p>
 
 

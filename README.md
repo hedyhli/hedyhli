@@ -17,14 +17,14 @@ banner made with canva
 
 <br>
 
-<h3 align="left">🔭 Currently focusing on...</h3>
+<strong>🔭 Currently focusing on...</strong>
 
 <a href="https://github.com/hedythedev/starcli"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=hedythedev&repo=starcli" width=360> </a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/hedythedev/gtrending"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=hedythedev&repo=gtrending" width=360> </a>
 
 
 <hr>
 
-<h3 align="left">📫 How to reach me </h3>
+<strong>📫 How to reach me </strong>
    
    1. [twitter @hedythedev](https://twitter.com/hedythedev) (recommended)
    2. [linkedin](https://www.linkedin.com/in/hedy-li-8608831a6/) (if you don't have twitter)
@@ -33,7 +33,7 @@ banner made with canva
 
 <hr>
 
-<h3 align="left">⚡ Fun facts</h3>
+<strong>⚡ Fun facts</strong>
    
    - I speak fluent Chinese :100:
    - I *try* to live entirely in the terminal :computer:
@@ -43,7 +43,7 @@ banner made with canva
 
 <hr>
 
-<h3 align="left">Statistics</h3>
+<strong>Statistics</strong>
 <br>
 
 <!-- My GitHub stats with Dracula theme ❤️ -->

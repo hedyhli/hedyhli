@@ -47,7 +47,7 @@ banner made with canva
 <br>
 
 <!-- My GitHub stats with Dracula theme ❤️ -->
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=hedythedev&show_icons=true&theme=dracula" alt="my github stats" width="450"/>
 </p>
 
@@ -86,7 +86,7 @@ No Activity Tracked This Week
       
 ---
 
-<h3>👣 Recent GitHub Activity</h3>
+<strong>👣 Recent GitHub Activity</strong>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#137](https://github.com//gautamkrishnar/socli/issues/137) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)

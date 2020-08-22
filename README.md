@@ -21,7 +21,7 @@ banner made with canva
 
 <a href="https://github.com/hedythedev/starcli"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=hedythedev&repo=starcli" width=360> </a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/hedythedev/gtrending"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=hedythedev&repo=gtrending" width=360> </a>
 
-<br>
+
 <hr>
 
 <h3 align="left">📫 How to reach me </h3>

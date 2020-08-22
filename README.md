@@ -20,7 +20,7 @@ banner made with canva
 
 <strong>🔭 Currently focusing on...</strong>
 
-<a href="https://github.com/hedythedev/starcli"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=hedythedev&repo=starcli" width=360> </a> <a href="https://github.com/hedythedev/gtrending"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=hedythedev&repo=gtrending" width=360> </a>
+<a href="https://github.com/hedythedev/starcli"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=hedythedev&repo=starcli" width=350> </a> <a href="https://github.com/hedythedev/gtrending"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=hedythedev&repo=gtrending" width=350> </a>
 
 
 

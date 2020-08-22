@@ -18,7 +18,7 @@ banner made with canva
 <br>
 
 <h3 align="left">🔭 Currently focusing on...</h3>
-<br/>
+
 <a href="https://github.com/hedythedev/starcli"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=hedythedev&repo=starcli" width=360> </a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/hedythedev/gtrending"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=hedythedev&repo=gtrending" width=360> </a>
 
 <br>
@@ -40,7 +40,7 @@ banner made with canva
    - Favorite emoji: :smirk: (the *smirk*)
 
 
-<br>
+
 <hr>
 
 <h3 align="left">Statistics</h3>

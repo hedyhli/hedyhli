@@ -89,11 +89,11 @@ No Activity Tracked This Week
 <h3>👣 Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2266](https://github.com//up-for-grabs/up-for-grabs.net/pull/2266) in [up-for-grabs/up-for-grabs.net](https://github.com//up-for-grabs/up-for-grabs.net)
-2. 🗣 Commented on [#246](https://github.com//willmcgugan/rich/issues/246) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
+1. 🗣 Commented on [#137](https://github.com//gautamkrishnar/socli/issues/137) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
+2. 💪 Opened PR [#2266](https://github.com//up-for-grabs/up-for-grabs.net/pull/2266) in [up-for-grabs/up-for-grabs.net](https://github.com//up-for-grabs/up-for-grabs.net)
 3. 🗣 Commented on [#246](https://github.com//willmcgugan/rich/issues/246) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
-4. 💪 Opened PR [#246](https://github.com//willmcgugan/rich/pull/246) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
-5. 🎉 Merged PR [#4](https://github.com//hedythedev/passibility/pull/4) in [hedythedev/passibility](https://github.com//hedythedev/passibility)
+4. 🗣 Commented on [#246](https://github.com//willmcgugan/rich/issues/246) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
+5. 💪 Opened PR [#246](https://github.com//willmcgugan/rich/pull/246) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
 <!--END_SECTION:activity-->
 
 

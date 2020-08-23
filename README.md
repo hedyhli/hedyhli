@@ -56,30 +56,8 @@ banner made with canva
 <!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+> 🔑 : 
 
-> 🏆 1,194 Contributions in the Year 2020
- > 
-> 📦 20.0 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 32 Public Repositories
- > 
-> 🔑 12 Private Repositories 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kuala_Lumpur
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
 
 
 <!--END_SECTION:waka-->

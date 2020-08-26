@@ -68,9 +68,9 @@ banner made with canva
 <strong>👣 Recent GitHub Activity</strong>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2266](https://github.com//up-for-grabs/up-for-grabs.net/issues/2266) in [up-for-grabs/up-for-grabs.net](https://github.com//up-for-grabs/up-for-grabs.net)
-2. ❗️ Opened issue [#3](https://github.com//neverendingqs/gh-action-ask-stackoverflow/issues/3) in [neverendingqs/gh-action-ask-stackoverflow](https://github.com//neverendingqs/gh-action-ask-stackoverflow)
-3. 🗣 Commented on [#1](https://github.com//neverendingqs/gh-action-ask-stackoverflow/issues/1) in [neverendingqs/gh-action-ask-stackoverflow](https://github.com//neverendingqs/gh-action-ask-stackoverflow)
+1. 💪 Opened PR [#2](https://github.com//RocktimSaikia/badge-it/pull/2) in [RocktimSaikia/badge-it](https://github.com//RocktimSaikia/badge-it)
+2. 🗣 Commented on [#2266](https://github.com//up-for-grabs/up-for-grabs.net/issues/2266) in [up-for-grabs/up-for-grabs.net](https://github.com//up-for-grabs/up-for-grabs.net)
+3. ❗️ Opened issue [#3](https://github.com//neverendingqs/gh-action-ask-stackoverflow/issues/3) in [neverendingqs/gh-action-ask-stackoverflow](https://github.com//neverendingqs/gh-action-ask-stackoverflow)
 4. 🗣 Commented on [#1](https://github.com//neverendingqs/gh-action-ask-stackoverflow/issues/1) in [neverendingqs/gh-action-ask-stackoverflow](https://github.com//neverendingqs/gh-action-ask-stackoverflow)
 5. 🗣 Commented on [#1](https://github.com//neverendingqs/gh-action-ask-stackoverflow/issues/1) in [neverendingqs/gh-action-ask-stackoverflow](https://github.com//neverendingqs/gh-action-ask-stackoverflow)
 <!--END_SECTION:activity-->

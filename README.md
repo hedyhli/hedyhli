@@ -68,11 +68,11 @@ banner made with canva
 <strong>👣 Recent GitHub Activity</strong>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com//hedythedev/passibility/pull/3) in [hedythedev/passibility](https://github.com//hedythedev/passibility)
-2. 🗣 Commented on [#6](https://github.com//hedythedev/passibility/issues/6) in [hedythedev/passibility](https://github.com//hedythedev/passibility)
-3. 🎉 Merged PR [#7](https://github.com//hedythedev/passibility/pull/7) in [hedythedev/passibility](https://github.com//hedythedev/passibility)
-4. 💪 Opened PR [#2](https://github.com//RocktimSaikia/badge-it/pull/2) in [RocktimSaikia/badge-it](https://github.com//RocktimSaikia/badge-it)
-5. 🗣 Commented on [#2266](https://github.com//up-for-grabs/up-for-grabs.net/issues/2266) in [up-for-grabs/up-for-grabs.net](https://github.com//up-for-grabs/up-for-grabs.net)
+1. 💪 Opened PR [#2](https://github.com//hedythedev/random-bot/pull/2) in [hedythedev/random-bot](https://github.com//hedythedev/random-bot)
+2. 🎉 Merged PR [#1](https://github.com//hedythedev/random-bot/pull/1) in [hedythedev/random-bot](https://github.com//hedythedev/random-bot)
+3. 💪 Opened PR [#1](https://github.com//hedythedev/random-bot/pull/1) in [hedythedev/random-bot](https://github.com//hedythedev/random-bot)
+4. 🎉 Merged PR [#3](https://github.com//hedythedev/passibility/pull/3) in [hedythedev/passibility](https://github.com//hedythedev/passibility)
+5. 🗣 Commented on [#6](https://github.com//hedythedev/passibility/issues/6) in [hedythedev/passibility](https://github.com//hedythedev/passibility)
 <!--END_SECTION:activity-->
 
 

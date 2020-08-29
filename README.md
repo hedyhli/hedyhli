@@ -68,11 +68,11 @@ banner made with canva
 <strong>👣 Recent GitHub Activity</strong>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com//hedythedev/gtrending/issues/6) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
-2. 🗣 Commented on [#2266](https://github.com//up-for-grabs/up-for-grabs.net/issues/2266) in [up-for-grabs/up-for-grabs.net](https://github.com//up-for-grabs/up-for-grabs.net)
-3. ❗️ Opened issue [#5](https://github.com//hedythedev/gtrending/issues/5) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
-4. ❗️ Opened issue [#4](https://github.com//hedythedev/gtrending/issues/4) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
-5. 🗣 Commented on [#81](https://github.com//hedythedev/starcli/issues/81) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+1. ❗️ Opened issue [#82](https://github.com//hedythedev/starcli/issues/82) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+2. ❗️ Opened issue [#6](https://github.com//hedythedev/gtrending/issues/6) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
+3. 🗣 Commented on [#2266](https://github.com//up-for-grabs/up-for-grabs.net/issues/2266) in [up-for-grabs/up-for-grabs.net](https://github.com//up-for-grabs/up-for-grabs.net)
+4. ❗️ Opened issue [#5](https://github.com//hedythedev/gtrending/issues/5) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
+5. ❗️ Opened issue [#4](https://github.com//hedythedev/gtrending/issues/4) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
 <!--END_SECTION:activity-->
 
 

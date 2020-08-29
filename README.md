@@ -68,11 +68,11 @@ banner made with canva
 <strong>👣 Recent GitHub Activity</strong>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com//hedythedev/starcli/issues/81) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-2. 🎉 Merged PR [#2](https://github.com//hedythedev/random-bot/pull/2) in [hedythedev/random-bot](https://github.com//hedythedev/random-bot)
-3. 💪 Opened PR [#2](https://github.com//hedythedev/random-bot/pull/2) in [hedythedev/random-bot](https://github.com//hedythedev/random-bot)
-4. 🎉 Merged PR [#1](https://github.com//hedythedev/random-bot/pull/1) in [hedythedev/random-bot](https://github.com//hedythedev/random-bot)
-5. 💪 Opened PR [#1](https://github.com//hedythedev/random-bot/pull/1) in [hedythedev/random-bot](https://github.com//hedythedev/random-bot)
+1. ❗️ Opened issue [#4](https://github.com//hedythedev/gtrending/issues/4) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
+2. 🗣 Commented on [#81](https://github.com//hedythedev/starcli/issues/81) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+3. 🎉 Merged PR [#2](https://github.com//hedythedev/random-bot/pull/2) in [hedythedev/random-bot](https://github.com//hedythedev/random-bot)
+4. 💪 Opened PR [#2](https://github.com//hedythedev/random-bot/pull/2) in [hedythedev/random-bot](https://github.com//hedythedev/random-bot)
+5. 🎉 Merged PR [#1](https://github.com//hedythedev/random-bot/pull/1) in [hedythedev/random-bot](https://github.com//hedythedev/random-bot)
 <!--END_SECTION:activity-->
 
 

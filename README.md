@@ -68,11 +68,11 @@ banner made with canva
 <strong>👣 Recent GitHub Activity</strong>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#202](https://github.com//gautamkrishnar/socli/issues/202) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
+1. 🗣 Commented on [#244](https://github.com//dylanaraps/pywal/issues/244) in [dylanaraps/pywal](https://github.com//dylanaraps/pywal)
 2. 🗣 Commented on [#202](https://github.com//gautamkrishnar/socli/issues/202) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
 3. 🗣 Commented on [#202](https://github.com//gautamkrishnar/socli/issues/202) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
-4. ❗️ Opened issue [#82](https://github.com//hedythedev/starcli/issues/82) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-5. ❗️ Opened issue [#6](https://github.com//hedythedev/gtrending/issues/6) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
+4. 🗣 Commented on [#202](https://github.com//gautamkrishnar/socli/issues/202) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
+5. ❗️ Opened issue [#82](https://github.com//hedythedev/starcli/issues/82) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
 <!--END_SECTION:activity-->
 
 

@@ -68,10 +68,10 @@ banner made with canva
 <strong>👣 Recent GitHub Activity</strong>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com//neverendingqs/gh-action-ask-stackoverflow/issues/3) in [neverendingqs/gh-action-ask-stackoverflow](https://github.com//neverendingqs/gh-action-ask-stackoverflow)
-2. 🗣 Commented on [#140](https://github.com//gautamkrishnar/socli/issues/140) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
-3. 🗣 Commented on [#140](https://github.com//gautamkrishnar/socli/issues/140) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
-4. 🗣 Commented on [#140](https://github.com//gautamkrishnar/socli/issues/140) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
+1. ❗️ Closed issue [#4](https://github.com//hedythedev/gtrending/issues/4) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
+2. 🗣 Commented on [#4](https://github.com//hedythedev/gtrending/issues/4) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
+3. 🎉 Merged PR [#7](https://github.com//hedythedev/gtrending/pull/7) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
+4. 🗣 Commented on [#3](https://github.com//neverendingqs/gh-action-ask-stackoverflow/issues/3) in [neverendingqs/gh-action-ask-stackoverflow](https://github.com//neverendingqs/gh-action-ask-stackoverflow)
 5. 🗣 Commented on [#140](https://github.com//gautamkrishnar/socli/issues/140) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
 <!--END_SECTION:activity-->
 

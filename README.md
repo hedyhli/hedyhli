@@ -68,11 +68,11 @@ banner made with canva
 <strong>👣 Recent GitHub Activity</strong>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#285](https://github.com//willmcgugan/rich/pull/285) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
-2. 💪 Opened PR [#278](https://github.com//willmcgugan/rich/pull/278) in [willmcgugan/rich](https://github.com//willmcgugan/rich)
-3. 🎉 Merged PR [#86](https://github.com//hedythedev/starcli/pull/86) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-4. ❗️ Closed issue [#82](https://github.com//hedythedev/starcli/issues/82) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
-5. 🎉 Merged PR [#8](https://github.com//hedythedev/gtrending/pull/8) in [hedythedev/gtrending](https://github.com//hedythedev/gtrending)
+1. 💪 Opened PR [#219](https://github.com//gautamkrishnar/socli/pull/219) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
+2. ❌ Closed PR [#87](https://github.com//hedythedev/starcli/pull/87) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+3. 🗣 Commented on [#87](https://github.com//hedythedev/starcli/issues/87) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+4. ❗️ Closed issue [#140](https://github.com//gautamkrishnar/socli/issues/140) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
+5. 🗣 Commented on [#140](https://github.com//gautamkrishnar/socli/issues/140) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
 <!--END_SECTION:activity-->
 
 

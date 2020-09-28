@@ -68,11 +68,11 @@ banner made with canva
 <strong>👣 Recent GitHub Activity</strong>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#201](https://github.com/gautamkrishnar/socli/issues/201) in [gautamkrishnar/socli](https://github.com/gautamkrishnar/socli)
-2. 🗣 Commented on [#80](https://github.com/hedythedev/starcli/issues/80) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
-3. 🗣 Commented on [#24](https://github.com/hedythedev/starcli/issues/24) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
-4. 🗣 Commented on [#80](https://github.com/hedythedev/starcli/issues/80) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
-5. 💪 Opened PR [#219](https://github.com/gautamkrishnar/socli/pull/219) in [gautamkrishnar/socli](https://github.com/gautamkrishnar/socli)
+1. 🗣 Commented on [#61](https://github.com/hedythedev/starcli/issues/61) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
+2. 🗣 Commented on [#201](https://github.com/gautamkrishnar/socli/issues/201) in [gautamkrishnar/socli](https://github.com/gautamkrishnar/socli)
+3. 🗣 Commented on [#80](https://github.com/hedythedev/starcli/issues/80) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
+4. 🗣 Commented on [#24](https://github.com/hedythedev/starcli/issues/24) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
+5. 🗣 Commented on [#80](https://github.com/hedythedev/starcli/issues/80) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
 <!--END_SECTION:activity-->
 
 

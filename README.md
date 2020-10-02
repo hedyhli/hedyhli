@@ -68,11 +68,11 @@ banner made with canva
 <strong>👣 Recent GitHub Activity</strong>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/hedythedev/gtrending/issues/6) in [hedythedev/gtrending](https://github.com/hedythedev/gtrending)
-2. 🗣 Commented on [#61](https://github.com/hedythedev/starcli/issues/61) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
-3. 🗣 Commented on [#201](https://github.com/gautamkrishnar/socli/issues/201) in [gautamkrishnar/socli](https://github.com/gautamkrishnar/socli)
-4. 🗣 Commented on [#80](https://github.com/hedythedev/starcli/issues/80) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
-5. 🗣 Commented on [#24](https://github.com/hedythedev/starcli/issues/24) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
+1. 💪 Opened PR [#1109](https://github.com/carbon-app/carbon/pull/1109) in [carbon-app/carbon](https://github.com/carbon-app/carbon)
+2. 💪 Opened PR [#17](https://github.com/github/issue-labeler/pull/17) in [github/issue-labeler](https://github.com/github/issue-labeler)
+3. 💪 Opened PR [#114](https://github.com/lorien/awesome-web-scraping/pull/114) in [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping)
+4. 💪 Opened PR [#556](https://github.com/shivaylamba/Hacktoberfest/pull/556) in [shivaylamba/Hacktoberfest](https://github.com/shivaylamba/Hacktoberfest)
+5. 🗣 Commented on [#6](https://github.com/hedythedev/gtrending/issues/6) in [hedythedev/gtrending](https://github.com/hedythedev/gtrending)
 <!--END_SECTION:activity-->
 
 

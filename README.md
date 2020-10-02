@@ -68,11 +68,11 @@ banner made with canva
 <strong>👣 Recent GitHub Activity</strong>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/hedythedev/bot/pull/1) in [hedythedev/bot](https://github.com/hedythedev/bot)
-2. 💪 Opened PR [#1](https://github.com/hedythedev/bot/pull/1) in [hedythedev/bot](https://github.com/hedythedev/bot)
-3. 🗣 Commented on [#12](https://github.com/hedythedev/passibility/issues/12) in [hedythedev/passibility](https://github.com/hedythedev/passibility)
-4. 🗣 Commented on [#11](https://github.com/hedythedev/passibility/issues/11) in [hedythedev/passibility](https://github.com/hedythedev/passibility)
-5. 💪 Opened PR [#782](https://github.com/sukeesh/Jarvis/pull/782) in [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis)
+1. 💪 Opened PR [#7](https://github.com/gnebbia/pdlist/pull/7) in [gnebbia/pdlist](https://github.com/gnebbia/pdlist)
+2. 💪 Opened PR [#1207](https://github.com/python-discord/bot/pull/1207) in [python-discord/bot](https://github.com/python-discord/bot)
+3. 🎉 Merged PR [#1](https://github.com/hedythedev/bot/pull/1) in [hedythedev/bot](https://github.com/hedythedev/bot)
+4. 💪 Opened PR [#1](https://github.com/hedythedev/bot/pull/1) in [hedythedev/bot](https://github.com/hedythedev/bot)
+5. 🗣 Commented on [#12](https://github.com/hedythedev/passibility/issues/12) in [hedythedev/passibility](https://github.com/hedythedev/passibility)
 <!--END_SECTION:activity-->
 
 

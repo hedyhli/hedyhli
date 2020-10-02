@@ -68,11 +68,11 @@ banner made with canva
 <strong>👣 Recent GitHub Activity</strong>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/hedythedev/passibility/issues/12) in [hedythedev/passibility](https://github.com/hedythedev/passibility)
-2. 🗣 Commented on [#11](https://github.com/hedythedev/passibility/issues/11) in [hedythedev/passibility](https://github.com/hedythedev/passibility)
-3. 💪 Opened PR [#782](https://github.com/sukeesh/Jarvis/pull/782) in [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis)
-4. 💪 Opened PR [#1109](https://github.com/carbon-app/carbon/pull/1109) in [carbon-app/carbon](https://github.com/carbon-app/carbon)
-5. 💪 Opened PR [#17](https://github.com/github/issue-labeler/pull/17) in [github/issue-labeler](https://github.com/github/issue-labeler)
+1. 🎉 Merged PR [#1](https://github.com/hedythedev/bot/pull/1) in [hedythedev/bot](https://github.com/hedythedev/bot)
+2. 💪 Opened PR [#1](https://github.com/hedythedev/bot/pull/1) in [hedythedev/bot](https://github.com/hedythedev/bot)
+3. 🗣 Commented on [#12](https://github.com/hedythedev/passibility/issues/12) in [hedythedev/passibility](https://github.com/hedythedev/passibility)
+4. 🗣 Commented on [#11](https://github.com/hedythedev/passibility/issues/11) in [hedythedev/passibility](https://github.com/hedythedev/passibility)
+5. 💪 Opened PR [#782](https://github.com/sukeesh/Jarvis/pull/782) in [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis)
 <!--END_SECTION:activity-->
 
 

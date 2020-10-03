@@ -68,11 +68,11 @@ banner made with canva
 <strong>👣 Recent GitHub Activity</strong>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/hedythedev/gtrending/issues/9) in [hedythedev/gtrending](https://github.com/hedythedev/gtrending)
-2. 🎉 Merged PR [#90](https://github.com/hedythedev/starcli/pull/90) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
-3. 🗣 Commented on [#84](https://github.com/hedythedev/starcli/issues/84) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
-4. 🎉 Merged PR [#89](https://github.com/hedythedev/starcli/pull/89) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
-5. 🗣 Commented on [#86](https://github.com/hedythedev/starcli/issues/86) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
+1. ❗️ Opened issue [#88](https://github.com/abenassi/Google-Search-API/issues/88) in [abenassi/Google-Search-API](https://github.com/abenassi/Google-Search-API)
+2. 🗣 Commented on [#9](https://github.com/hedythedev/gtrending/issues/9) in [hedythedev/gtrending](https://github.com/hedythedev/gtrending)
+3. 🎉 Merged PR [#90](https://github.com/hedythedev/starcli/pull/90) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
+4. 🗣 Commented on [#84](https://github.com/hedythedev/starcli/issues/84) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
+5. 🎉 Merged PR [#89](https://github.com/hedythedev/starcli/pull/89) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
 <!--END_SECTION:activity-->
 
 

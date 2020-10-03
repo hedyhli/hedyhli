@@ -68,11 +68,11 @@ banner made with canva
 <strong>👣 Recent GitHub Activity</strong>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#474](https://github.com/python-discord/seasonalbot/issues/474) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
-2. ❗️ Opened issue [#88](https://github.com/abenassi/Google-Search-API/issues/88) in [abenassi/Google-Search-API](https://github.com/abenassi/Google-Search-API)
-3. 🗣 Commented on [#9](https://github.com/hedythedev/gtrending/issues/9) in [hedythedev/gtrending](https://github.com/hedythedev/gtrending)
-4. 🎉 Merged PR [#90](https://github.com/hedythedev/starcli/pull/90) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
-5. 🗣 Commented on [#84](https://github.com/hedythedev/starcli/issues/84) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
+1. 💪 Opened PR [#475](https://github.com/python-discord/seasonalbot/pull/475) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
+2. ❗️ Opened issue [#474](https://github.com/python-discord/seasonalbot/issues/474) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
+3. ❗️ Opened issue [#88](https://github.com/abenassi/Google-Search-API/issues/88) in [abenassi/Google-Search-API](https://github.com/abenassi/Google-Search-API)
+4. 🗣 Commented on [#9](https://github.com/hedythedev/gtrending/issues/9) in [hedythedev/gtrending](https://github.com/hedythedev/gtrending)
+5. 🎉 Merged PR [#90](https://github.com/hedythedev/starcli/pull/90) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
 <!--END_SECTION:activity-->
 
 

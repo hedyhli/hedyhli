@@ -68,11 +68,11 @@ banner made with canva
 <strong>👣 Recent GitHub Activity</strong>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#130](https://github.com/huchenme/github-trending-api/issues/130) in [huchenme/github-trending-api](https://github.com/huchenme/github-trending-api)
-2. 💪 Opened PR [#475](https://github.com/python-discord/seasonalbot/pull/475) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
-3. ❗️ Opened issue [#474](https://github.com/python-discord/seasonalbot/issues/474) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
-4. ❗️ Opened issue [#88](https://github.com/abenassi/Google-Search-API/issues/88) in [abenassi/Google-Search-API](https://github.com/abenassi/Google-Search-API)
-5. 🗣 Commented on [#9](https://github.com/hedythedev/gtrending/issues/9) in [hedythedev/gtrending](https://github.com/hedythedev/gtrending)
+1. ❗️ Opened issue [#477](https://github.com/python-discord/seasonalbot/issues/477) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
+2. ❗️ Opened issue [#130](https://github.com/huchenme/github-trending-api/issues/130) in [huchenme/github-trending-api](https://github.com/huchenme/github-trending-api)
+3. 💪 Opened PR [#475](https://github.com/python-discord/seasonalbot/pull/475) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
+4. ❗️ Opened issue [#474](https://github.com/python-discord/seasonalbot/issues/474) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
+5. ❗️ Opened issue [#88](https://github.com/abenassi/Google-Search-API/issues/88) in [abenassi/Google-Search-API](https://github.com/abenassi/Google-Search-API)
 <!--END_SECTION:activity-->
 
 

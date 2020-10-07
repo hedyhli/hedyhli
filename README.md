@@ -68,11 +68,11 @@ banner made with canva
 <strong>👣 Recent GitHub Activity</strong>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#398](https://github.com/wesbos/JavaScript30/issues/398) in [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
-2. 🗣 Commented on [#477](https://github.com/python-discord/seasonalbot/issues/477) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
-3. 🗣 Commented on [#475](https://github.com/python-discord/seasonalbot/issues/475) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
-4. 🗣 Commented on [#475](https://github.com/python-discord/seasonalbot/issues/475) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
-5. ❗️ Opened issue [#477](https://github.com/python-discord/seasonalbot/issues/477) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
+1. ❗️ Opened issue [#489](https://github.com/python-discord/seasonalbot/issues/489) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
+2. 🗣 Commented on [#475](https://github.com/python-discord/seasonalbot/issues/475) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
+3. 🗣 Commented on [#398](https://github.com/wesbos/JavaScript30/issues/398) in [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
+4. 🗣 Commented on [#477](https://github.com/python-discord/seasonalbot/issues/477) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
+5. 🗣 Commented on [#475](https://github.com/python-discord/seasonalbot/issues/475) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
 <!--END_SECTION:activity-->
 
 

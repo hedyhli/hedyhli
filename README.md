@@ -68,11 +68,11 @@ banner made with canva
 <strong>👣 Recent GitHub Activity</strong>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#497](https://github.com/python-discord/seasonalbot/issues/497) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
-2. 🗣 Commented on [#475](https://github.com/python-discord/seasonalbot/issues/475) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
-3. 🗣 Commented on [#497](https://github.com/python-discord/seasonalbot/issues/497) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
-4. 💪 Opened PR [#497](https://github.com/python-discord/seasonalbot/pull/497) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
-5. 🗣 Commented on [#355](https://github.com/willmcgugan/rich/issues/355) in [willmcgugan/rich](https://github.com/willmcgugan/rich)
+1. ❌ Closed PR [#497](https://github.com/python-discord/seasonalbot/pull/497) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
+2. 🗣 Commented on [#497](https://github.com/python-discord/seasonalbot/issues/497) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
+3. ❗️ Opened issue [#498](https://github.com/python-discord/seasonalbot/issues/498) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
+4. 🗣 Commented on [#497](https://github.com/python-discord/seasonalbot/issues/497) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
+5. 🗣 Commented on [#475](https://github.com/python-discord/seasonalbot/issues/475) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
 <!--END_SECTION:activity-->
 
 

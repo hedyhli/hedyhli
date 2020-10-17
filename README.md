@@ -69,10 +69,10 @@ banner made with canva
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#475](https://github.com/python-discord/seasonalbot/issues/475) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
-2. 🗣 Commented on [#10](https://github.com/hedythedev/gtrending/issues/10) in [hedythedev/gtrending](https://github.com/hedythedev/gtrending)
-3. 🗣 Commented on [#130](https://github.com/huchenme/github-trending-api/issues/130) in [huchenme/github-trending-api](https://github.com/huchenme/github-trending-api)
-4. 🗣 Commented on [#1238](https://github.com/python-discord/bot/issues/1238) in [python-discord/bot](https://github.com/python-discord/bot)
-5. 🗣 Commented on [#1235](https://github.com/python-discord/bot/issues/1235) in [python-discord/bot](https://github.com/python-discord/bot)
+2. 🗣 Commented on [#60](https://github.com/python-discord/meta/issues/60) in [python-discord/meta](https://github.com/python-discord/meta)
+3. 🗣 Commented on [#475](https://github.com/python-discord/seasonalbot/issues/475) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
+4. 🗣 Commented on [#10](https://github.com/hedythedev/gtrending/issues/10) in [hedythedev/gtrending](https://github.com/hedythedev/gtrending)
+5. 🗣 Commented on [#130](https://github.com/huchenme/github-trending-api/issues/130) in [huchenme/github-trending-api](https://github.com/huchenme/github-trending-api)
 <!--END_SECTION:activity-->
 
 

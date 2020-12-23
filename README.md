@@ -68,11 +68,11 @@ banner made with canva
 <strong>👣 Recent GitHub Activity</strong>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#510](https://github.com/python-discord/seasonalbot/issues/510) in [python-discord/seasonalbot](https://github.com/python-discord/seasonalbot)
-2. 🗣 Commented on [#420](https://github.com/python-discord/site/issues/420) in [python-discord/site](https://github.com/python-discord/site)
-3. 💪 Opened PR [#420](https://github.com/python-discord/site/pull/420) in [python-discord/site](https://github.com/python-discord/site)
-4. 🗣 Commented on [#419](https://github.com/python-discord/site/issues/419) in [python-discord/site](https://github.com/python-discord/site)
-5. 💪 Opened PR [#419](https://github.com/python-discord/site/pull/419) in [python-discord/site](https://github.com/python-discord/site)
+1. 🗣 Commented on [#95](https://github.com/hedythedev/starcli/issues/95) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
+2. 🎉 Merged PR [#96](https://github.com/hedythedev/starcli/pull/96) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
+3. 🗣 Commented on [#95](https://github.com/hedythedev/starcli/issues/95) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
+4. 🎉 Merged PR [#92](https://github.com/hedythedev/starcli/pull/92) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
+5. 🎉 Merged PR [#95](https://github.com/hedythedev/starcli/pull/95) in [hedythedev/starcli](https://github.com/hedythedev/starcli)
 <!--END_SECTION:activity-->
 
 

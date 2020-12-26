@@ -23,7 +23,7 @@ Directory: /home/hedy                   Shell: /usr/bin/fish
 ...
 No mail.
 Project:
-  Currently working on <a href="https://github.com/hedythedev/starcli">starcli</a>
+  Optimising my dotfiles :p
 Plan:
   learning \o/
 </pre>

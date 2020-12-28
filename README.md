@@ -15,7 +15,7 @@
 </pre>
 <pre>
 ~ $ cat note.txt
-If I'm not responding to any of your PRs or issues, feel free to <a href="mailto:hedy@ttm.sh">email</a> me
+If I'm not responding to any of your PRs or issues, feel free to remind me via <a href="mailto:hedy@ttm.sh">email</a>.
 
 ~ $ finger hedy
 Login: hedy                             Name: Hedy Li

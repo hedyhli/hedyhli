@@ -23,7 +23,7 @@ Directory: /home/hedy                   Shell: /usr/bin/fish
 ...
 No mail.
 Project:
-  Optimizing my <a href="https://github.com/hedythedev/dotfiles">dotfiles</a> :p
+  Optimizing my <a href="https://github.com/hedythedev/dotfiles">dotfiles</a> :P
 Plan:
   learning \o/
 </pre>

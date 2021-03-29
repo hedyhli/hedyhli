@@ -23,9 +23,12 @@ Directory: /home/hedy                   Shell: /usr/bin/fish
 ...
 No mail.
 Project:
-  Optimizing my <a href="https://github.com/hedythedev/dotfiles">dotfiles</a> :P
+  - Optimizing my <a href="https://github.com/hedythedev/dotfiles">dotfiles</a>
+  - Working on my web, gemini, and gopher site
+  - Drafting (b|gem|ph|sh)log posts
 Plan:
-  learning \o/
+  learning... \o/
+  Mostly small internet and IRC bot, email libs, golang, etc and related stuff
 </pre>
 
 <!-- This profile readme is WIP :) -->

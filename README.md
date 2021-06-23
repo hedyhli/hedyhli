@@ -15,10 +15,10 @@
 </pre>
 <pre>
 ~ $ cat note.txt
-1. If I'm not responding to any of your PRs or issues, feel
-   free to remind me via <a href="mailto:hedy@tilde.cafe">email</a>.
-2. I use sourcehut to host most of my projects now. (well
-   actually <em>all</em> except for GitHub specific projects)
+1. If I'm not responding to any of your PRs or issues, feel free to remind
+   me via <a href="mailto:hedy@tilde.cafe">email</a>.
+2. I use sourcehut to host most of my projects now. (well actually <em>all</em>
+   except for GitHub specific projects)
 
 ~ $ finger hedy
 Login: hedy                             Name: Hedy Li

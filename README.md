@@ -15,7 +15,10 @@
 </pre>
 <pre>
 ~ $ cat note.txt
-If I'm not responding to any of your PRs or issues, feel free to remind me via <a href="mailto:hedy@ttm.sh">email</a>.
+1. If I'm not responding to any of your PRs or issues, feel
+   free to remind me via <a href="mailto:hedy@tilde.cafe">email</a>.
+2. I use sourcehut to host most of my projects now. (well
+   actually <em>all</em> except for GitHub specific projects)
 
 ~ $ finger hedy
 Login: hedy                             Name: Hedy Li
@@ -25,6 +28,8 @@ No mail.
 Project:
   - Optimizing my <a href="https://github.com/hedythedev/dotfiles">dotfiles</a>
   - Working on my web, gemini, and gopher site
+    (for now I'm blogging and gemlogging <a href="hedy.smol.pub">on smol.pub</a>, once my own site is
+    ready I'll use that instead.
   - Drafting (b|gem|ph|sh)log posts
 Plan:
   learning... \o/

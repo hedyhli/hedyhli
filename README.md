@@ -34,4 +34,3 @@ Plan:
   Mostly small internet and IRC bot, email libs, golang, etc and related stuff
 </pre>
 
-<!-- This profile readme is WIP :) -->

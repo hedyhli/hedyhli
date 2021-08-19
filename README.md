@@ -25,13 +25,11 @@
 Login: hedy                             Name: Hedy Li
 Directory: /home/hedy                   Shell: /usr/bin/fish
 Project:
-  - Optimizing my <a href="https://github.com/hedythedev/dotfiles">dotfiles</a>
-  - Working on my web, gemini, and gopher site
-    (for now I'm blogging and gemlogging <a href="hedy.smol.pub">on smol.pub</a>, once my own site is
-    ready I'll use that instead.
+  - Optimizing my <a href="https://github.com/hedyhli/dotfiles">dotfiles</a>
+  - Working on my web, gemini, and spartan site, <a href="https://hedy.tilde.cafe">check it out</a>!
   - Drafting (b|gem|ph|sh)log posts
+  - Working on <a href="https://github.com/hedyhli/gelim">gelim</a> (terminal gemini client) and <a href="https://github.com/hedyhli/spsrv">spsrv</a> (spartan server).
 Plan:
-  learning... \o/
-  Mostly small internet and IRC bot, email libs, golang, etc and related stuff
+  learning \o/
 </pre>
 

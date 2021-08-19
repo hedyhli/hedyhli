@@ -15,12 +15,12 @@
 
 </pre>
 <pre>
-~ $ cat note.txt
+~ $ <strong>cat note.txt</strong>
 1. If I'm not responding to any of your PRs or issues, feel free to remind
    me via <a href="mailto:hedy@tilde.cafe">email</a>.
 2. I use sourcehut (primarily) to host my repositories. Some of them has github mirrors.
 
-~ $ finger hedy
+~ $ <strong>finger hedy</strong>
 Login: hedy                             Name: Hedy Li
 Directory: /home/hedy                   Shell: /usr/bin/fish
 Project:

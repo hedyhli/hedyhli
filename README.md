@@ -35,5 +35,4 @@ Plan:
 
 
 [**octo ring**](https://octo-ring.com/)
-
-[[prev](https://octo-ring.com/p/hedyhli/prev)] | [[random](https://octo-ring.com/p/hedyhli/random)] | [[next](https://octo-ring.com/p/hedyhli/next)]
+[[prev](https://octo-ring.com/p/hedyhli/prev)]  [[random](https://octo-ring.com/p/hedyhli/random)]  [[next](https://octo-ring.com/p/hedyhli/next)]

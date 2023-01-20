@@ -19,6 +19,9 @@
    feel free to remind me via <a href="mailto:hedy+gh@tilde.cafe">email</a>.
 2. I use sourcehut (primarily) to host my repositories.
    Most of them has github mirrors.
+ 
+ ~> <strong>ll socials</strong>
+ Fediverse: <a href="https://tilde.zone/@hedy">@hedy@tilde.zone</a>
 
  ~> <strong>finger hedy</strong>
 Login: hedy                             Name: hedy

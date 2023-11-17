@@ -16,7 +16,7 @@
 
 <!-- WARNING 🔔🚨🚨🚨🚨🚨🚨🚨🔔 Please think twice before
 BLINDLY COPYING my profile readme format. Design your own that
- suit your needs! Or well, at least give credit, sheesh. -->
+ suit your needs! Or well, at least give credit? :) -->
 
 <pre>
  ~> <strong>cat note.txt</strong>
@@ -33,7 +33,7 @@ Login: hedy                             Name: hedy
 Directory: /home/hedy                   Shell: /usr/bin/fish
 Project:
   - <a href="https://github.com/hedyhli/dotfiles">dotfiles</a>
-  - Working on my web, gemini, and spartan site, <a href="https://hedy.tilde.cafe">check it out</a>!
+  - <a href="https://github.com/hedyhli/outline.nvim">outline.nvim</a>
   - Drafting (b|gem|ph|sh)log posts - but not publishing :>
   - Working on <a href="https://github.com/hedyhli/gelim">gelim</a> (terminal gemini client) and <a href="https://github.com/hedyhli/spsrv">spsrv</a> (spartan server).
 Plan:

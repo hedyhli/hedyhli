@@ -24,7 +24,7 @@ BLINDLY COPYING my profile readme format. Design your own that
    Most of them has github mirrors.
  
  ~> <strong>ls socials</strong>
- Fediverse: <a href="https://tilde.zone/@hedy">@hedy@tilde.zone</a>
+ Fediverse: <a rel=me href="https://tilde.zone/@hedy">@hedy@tilde.zone</a>
 
  ~> <strong>finger hedy</strong>
 Login: hedy                             Name: hedy

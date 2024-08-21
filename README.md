@@ -12,9 +12,13 @@
      \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
 
-<!-- WARNING 🔔🚨🚨🚨🚨🚨🚨🚨🔔 Please think twice before
-BLINDLY COPYING my profile readme format. Design your own that
- suit your needs! Or well, at least give credit? :) -->
+<!--
+  WARNING 🔔🚨🚨🚨🚨🚨🚨🚨🔔
+  Please think twice before BLINDLY COPYING my profile readme.
+  Design your own that suit your needs and personality! Or well,
+  at least remember to change the name, project, shell, note.txt
+  etc!
+-->
 
 <pre>
  ~> <strong>cat note.txt</strong>
@@ -32,8 +36,8 @@ Directory: /home/hedy                   Shell: /usr/bin/fish
 Project:
   - <a href="https://github.com/hedyhli/dotfiles">dotfiles</a>
   - <a href="https://github.com/hedyhli/outline.nvim">outline.nvim</a>
-  - Drafting (b|gem|ph|sh)log posts - but not publishing :>
-  - Working on <a href="https://github.com/hedyhli/gelim">gelim</a> (terminal gemini client) and <a href="https://github.com/hedyhli/spsrv">spsrv</a> (spartan server).
+  - <a href="https://github.com/hedyhli/cognate-playground">an online playground</a> for the Cognate programming language
+  - Drafting (b|gem|ph|sh)log posts - but not publishing...
 Plan:
   Learning \o/
 </pre>

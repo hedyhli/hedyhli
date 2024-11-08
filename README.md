@@ -27,8 +27,10 @@
 2. I use sourcehut (primarily) to host my repositories.
    Most of them has github mirrors.
  
- ~> <strong>ls socials</strong>
- Fediverse: <a rel=me href="https://tilde.zone/@hedy">@hedy@tilde.zone</a>
+ ~> <strong>ls links</strong>
+ Fediverse: <a rel=me href="https://tilde.zone/@hedy">@hedy@tilde.zone</a> (Mastodon)
+ Blog: <a href="https://home.hedy.dev">home.hedy.dev</a>
+ Gemini capsule: <a href="gemini://gmi.hedy.dev">gmi.hedy.dev</a>
 
  ~> <strong>finger hedy</strong>
 Login: hedy                             Name: hedy
@@ -37,7 +39,6 @@ Project:
   - <a href="https://github.com/hedyhli/dotfiles">dotfiles</a>
   - <a href="https://github.com/hedyhli/outline.nvim">outline.nvim</a>
   - <a href="https://github.com/hedyhli/cognate-playground">an online playground</a> for the Cognate programming language
-  - Drafting (b|gem|ph|sh)log posts - but not publishing...
 Plan:
   Learning \o/
 </pre>

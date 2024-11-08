@@ -28,8 +28,8 @@
    Most of them has github mirrors.
  
  ~> <strong>ls links</strong>
- Fediverse: <a rel=me href="https://tilde.zone/@hedy">@hedy@tilde.zone</a> (Mastodon)
- Blog: <a href="https://home.hedy.dev/">home.hedy.dev</a>
+ Fediverse:      <a rel=me href="https://tilde.zone/@hedy">@hedy@tilde.zone</a> (Mastodon)
+ Blog:           <a href="https://home.hedy.dev/">home.hedy.dev</a>
  Gemini capsule: <a href="gemini://gmi.hedy.dev/">gemini://gmi.hedy.dev</a>
 
  ~> <strong>finger hedy</strong>

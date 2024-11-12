@@ -22,10 +22,8 @@
 
 <pre>
  ~> <strong>cat note.txt</strong>
-1. If I'm not responding to any of your PRs or issues,
-   feel free to remind me via <a href="mailto:hedy.dev+gh@protonmail.com">email</a>.
-2. I use sourcehut (primarily) to host my repositories.
-   Most of them has github mirrors.
+If I'm not responding to any of your PRs or issues,
+feel free to remind me via <a href="mailto:hedy.dev+gh@protonmail.com">email</a>.
  
  ~> <strong>ls links</strong>
  Fediverse:      <a rel=me href="https://tilde.zone/@hedy">@hedy@tilde.zone</a> (Mastodon)
